@@ -1,0 +1,15 @@
+.Tanpa-bootsrap {
+  border: none;
+  padding: 20px;
+  font-weight: 700;
+  font-size: 2em;
+  background-color: grey;
+  color: black;
+}
+
+.Tanpa-bootsrap:hover {
+  background-color: aqua;
+  color: black;
+  transform: rotateY("2");
+  transition: all 0.5s;
+}
